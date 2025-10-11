@@ -1,3 +1,4 @@
-#!/opt/pwn.college/bash
+#!/usr/bin/exec-suid -- /usr/local/bin/python -I
 
-/bin/cat /flag
+with open("/flag") as f:
+    print(f.read())
