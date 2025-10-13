@@ -1,3 +1,4 @@
 student_id: 1
-students: 1234567890
+students: 
+  1234567890: {}
 syllabus: "hi"
