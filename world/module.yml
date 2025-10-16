@@ -1,4 +1,4 @@
 name: World
 challenges:
   - id: test1
-    name: test
+    name: ../../../../
