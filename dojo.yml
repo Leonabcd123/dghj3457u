@@ -5,7 +5,7 @@ award:
   emoji: 🐉
 image: pwncollege/challenge-simple
 modules:
-  - id: world
+  - id: "../../"
 
 survey:
   prompt: "something"
