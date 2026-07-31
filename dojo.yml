@@ -4,11 +4,7 @@ type: private
 award:
   emoji: 🐉
 image: pwncollege/challenge-simple
-modules:
-  - import:
-      dojo: example
-      module: hello
-    
+modules:  
   - id: world
 
 survey:
