@@ -7,7 +7,7 @@ image: pwncollege/challenge-simple
 modules:  
     - resources:
       - type: challenge
-        id: apple1
+        id: apple
         name: Apple
         import:
           dojo: example
