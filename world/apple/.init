@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Text" > /home/hacker/my_text.txt
+echo "Text" > /text
