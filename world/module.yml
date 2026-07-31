@@ -1,4 +1,5 @@
 name: World
+importable: false
 challenges:
   - id: test1
     name: ../../../../
