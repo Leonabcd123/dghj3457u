@@ -5,7 +5,7 @@ award:
   emoji: 🐉
 image: pwncollege/challenge-simple
 modules:  
-    resources:
+    - resources:
       - type: challenge
         id: apple1
         name: Apple
