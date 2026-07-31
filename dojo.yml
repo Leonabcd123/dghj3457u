@@ -1,7 +1,7 @@
-id: example
+id: example-dojo-with-hydra
 importable: false
 name: Example Dojo
-type: course
+type: public
 award:
   emoji: 🐉
 image: pwncollege/challenge-simple
