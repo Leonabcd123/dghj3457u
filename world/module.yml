@@ -2,3 +2,5 @@ name: World
 challenges:
   - id: test1
     name: ../../../../
+  - id: apple
+    name: my apple
