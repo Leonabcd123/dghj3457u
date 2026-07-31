@@ -10,6 +10,7 @@ modules:
     resources:
       - type: challenge
       - id: apple
+      - name: Apple
       - import:
         - dojo: example
         - module: hello
