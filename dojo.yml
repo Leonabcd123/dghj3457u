@@ -5,11 +5,9 @@ award:
   emoji: 🐉
 image: pwncollege/challenge-simple
 modules:  
-  - id: world
-
     resources:
       - type: challenge
-        id: apple
+        id: apple1
         name: Apple
         import:
           dojo: example
