@@ -1,6 +1,6 @@
 id: example-dojo-with-hydra
 name: Example Dojo
-type: public
+type: private
 award:
   emoji: 🐉
 image: pwncollege/challenge-simple
