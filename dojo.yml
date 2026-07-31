@@ -7,6 +7,14 @@ image: pwncollege/challenge-simple
 modules:  
   - id: world
 
+    resources:
+      - type: challenge
+      - id: apple
+      - import:
+        - dojo: example
+        - module: hello
+        - challenge: apple
+
 survey:
   prompt: "something"
   data: "another thing"
