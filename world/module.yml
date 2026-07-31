@@ -1,5 +1,8 @@
 name: World
-importable: false
 challenges:
   - id: test1
     name: ../../../../
+  - import:
+    dojo: example
+    module: hello
+    challenge: apple
